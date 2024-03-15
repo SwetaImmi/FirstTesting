@@ -26,7 +26,7 @@ class UserController extends Controller
 
     public function index()
     {
-        return view('static.login');
+        return view('admin.dashboard');
     }
 
     public function show()
@@ -101,7 +101,10 @@ class UserController extends Controller
     }
 
 
-   
+    public function charts()
+    {
+        return view('static.charts');
+    }
 
 
     // public function logout(Request $request)

@@ -93,7 +93,7 @@
                     </li>
 
                     <li class="sidebar-item">
-                        <a class="sidebar-link" href="chart">
+                        <a class="sidebar-link" href="charts">
                             <i class="align-middle" data-feather="bar-chart-2"></i> <span class="align-middle">Charts</span>
                         </a>
                     </li>
